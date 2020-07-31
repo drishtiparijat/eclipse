@@ -1,5 +1,5 @@
 package strings;
-import java.util.Scanner;
+import java.util.*;
 
 public class Anagram3 {
 	public static void main(String[] args) {
@@ -27,4 +27,5 @@ public class Anagram3 {
 		if(isAnagram) System.out.println("anagram");
 		else System.out.println("not anagram");
 	}
+	
 }
